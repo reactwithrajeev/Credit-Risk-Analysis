@@ -135,11 +135,11 @@ Credit-Risk-Analysis/
 
 | EDA 1 — Overall Default | EDA 2 — Loan Grade |
 |---|---|
-| ![EDA1](Python/charts/eda1_overall_default.png) | ![EDA2](Python/Charts/eda2_loangrade_default.png) |
+| ![EDA1](Python/charts/eda1_overall_default.png) | ![EDA2](Python/charts/eda2_loangrade_default.png) |
 
 | EDA 3 — Credit Score | EDA 10 — Correlation Heatmap |
 |---|---|
-| ![EDA3](Python/Charts/eda3_creditscore_default.png) | ![EDA10](Python/Charts/eda10_correlation_heatmap.png) |
+| ![EDA3](Python/charts/eda3_creditscore_default.png) | ![EDA10](Python/charts/eda10_correlation_heatmap.png) |
 
 ---
 
